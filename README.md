@@ -1,10 +1,2 @@
 # methodbyte-bookkit
-MethodByte BookKit is an extensible Python toolkit for converting books and documents into clean, structured, AI-ready knowledge for RAG pipelines, LLMs, semantic search and knowledge management.
-
-Add AI knowledge pipeline
-
-Add markdown cleaner
-
-Improve OCR cleanup
-
-Add semantic chunking
+MethodByte BookKit converts books and documents into clean, structured, AI-ready knowledge. It supports conversion, cleaning, semantic chunking, domain classification, metadata generation, Obsidian export, and outputs optimised for RAG and LLM workflows.
